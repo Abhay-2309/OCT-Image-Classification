@@ -53,4 +53,5 @@ Open your terminal and run:
 git clone https://github.com/Abhay-2309/OCT-Image-Classification.git
 cd your-repo-name
 
-
+##License
+This project is open source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
